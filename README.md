@@ -106,6 +106,9 @@ Based on this, generate a threat model covering:
 Be specific to the application described. Do not give generic advice.
 ```
 ---
+## OWASP Top 10 Review Pack
+🆕 See **[OWASP Top 10:2025 Review Prompts for AI-Generated Apps](./owasp-top-10-ai-security-prompts.md)** for five deeper review prompts covering stale credential trust, input-to-sink injection, password/crypto primitive misuse, security misconfiguration, and software supply chain failures.
+
 ## Building with Lovable?
 🆕 See **[Lovable-Specific Security Prompts](./lovable-security-prompts.md)** for platform-specific checks including the first-prompt one-liner, RLS SQL audit, mid-build review, and a full pre-ship checklist.
 ---
